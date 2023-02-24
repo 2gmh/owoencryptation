@@ -1,2 +1,2 @@
-# owoencrypt
+# owoencryptation
 Encriptacion simple basada en las palabras owo y owu 
